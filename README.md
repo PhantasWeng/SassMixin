@@ -17,6 +17,14 @@
 
 # Update [更新]
 
+## V1.0.0 發佈於 2016/01/21
+
+項目:
+
+01. [Mixin] 新增 圖片置中 Mxixin
+    * centerMe($pos: both), 預設對齊全部 both
+    * 選項: both top left right bottom
+
 ## V1.0.0 發佈於 2015/11/18
 
 項目:
